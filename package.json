@@ -1,0 +1,23 @@
+{
+  "name": "node-gmail-api",
+  "version": "1.0.0",
+  "description": "Sample project to show how to use the gmail API from a node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcarion/node-gmail-api.git"
+  },
+  "author": "Pierre Carion",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/pcarion/node-gmail-api/issues"
+  },
+  "homepage": "https://github.com/pcarion/node-gmail-api#readme",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.6"
+  }
+}
